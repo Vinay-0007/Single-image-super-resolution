@@ -29,3 +29,5 @@ results/
 
 # Python environment files
 .env
+
+.exe
