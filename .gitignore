@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Checkpoints / trained models
+checkpoints/
+*.pth
+*.pt
+
+# Dataset
+data/DIV2K/
+data/Set5/
+data/Set14/
+data/BSD100/
+data/Urban100/
+
+# Results generated locally
+results/
+
+# VS Code
+.vscode/
+
+# Python environment files
+.env
